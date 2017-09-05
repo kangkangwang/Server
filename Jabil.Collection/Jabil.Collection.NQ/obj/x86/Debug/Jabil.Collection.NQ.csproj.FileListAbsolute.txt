@@ -1,0 +1,12 @@
+E:\wwwroot\Source\Jabil.Collection\Lib\Jabil.Collection.NQ.exe.config
+E:\wwwroot\Source\Jabil.Collection\Lib\Jabil.Collection.NQ.exe
+E:\wwwroot\Source\Jabil.Collection\Lib\Jabil.Collection.NQ.pdb
+E:\wwwroot\Source\Jabil.Collection\Jabil.Collection.NQ\obj\x86\Debug\Jabil.Collection.NQ.csprojResolveAssemblyReference.cache
+E:\wwwroot\Source\Jabil.Collection\Jabil.Collection.NQ\obj\x86\Debug\Jabil.Collection.NQ.exe
+E:\wwwroot\Source\Jabil.Collection\Jabil.Collection.NQ\obj\x86\Debug\Jabil.Collection.NQ.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Lib\Jabil.Collection.NQ.exe.config
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Lib\Jabil.Collection.NQ.exe
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Lib\Jabil.Collection.NQ.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Jabil.Collection.NQ\obj\x86\Debug\Jabil.Collection.NQ.csprojResolveAssemblyReference.cache
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Jabil.Collection.NQ\obj\x86\Debug\Jabil.Collection.NQ.exe
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Jabil.Collection.NQ\obj\x86\Debug\Jabil.Collection.NQ.pdb

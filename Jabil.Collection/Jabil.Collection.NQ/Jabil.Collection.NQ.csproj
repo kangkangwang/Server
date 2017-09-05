@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{738B3342-AC43-48B4-A2CD-26677DAAFA98}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jabil.Collection.NQ</RootNamespace>
+    <AssemblyName>Jabil.Collection.NQ</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Lib\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DeerMonitor.Base.Core">
+      <HintPath>..\Reference\DeerMonitor.Base.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.EnergyManage.Core">
+      <HintPath>..\Reference\DeerMonitor.EnergyManage.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.EquipmentManage.Core">
+      <HintPath>..\Reference\DeerMonitor.EquipmentManage.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.Framework.Commons, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Reference\DeerMonitor.Framework.Commons.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.Framework.ControlUtil">
+      <HintPath>..\Reference\DeerMonitor.Framework.ControlUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.Pager.Entity, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Reference\DeerMonitor.Pager.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.SYS.Core">
+      <HintPath>..\Reference\DeerMonitor.SYS.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Collection.Base\Collection.Base.csproj">
+      <Project>{3edc3b1c-8541-4102-bf22-701313623340}</Project>
+      <Name>Collection.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Collection.Excutes\Collection.Excutes.csproj">
+      <Project>{85035d68-93e9-48f6-a2d3-07c6f8a801cd}</Project>
+      <Name>Collection.Excutes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,127 @@
+E:\工具软件\我的程序\C#区\异步通信类\TongXing\TongXing\bin\Debug\SanNiuSignal.dll
+E:\工具软件\我的程序\C#区\异步通信类\TongXing\TongXing\bin\Debug\SanNiuSignal.pdb
+E:\工具软件\我的程序\C#区\异步通信类\TongXing\TongXing\obj\Debug\ResolveAssemblyReference.cache
+E:\工具软件\我的程序\C#区\异步通信类\TongXing\TongXing\obj\Debug\SanNiuSignal.dll
+E:\工具软件\我的程序\C#区\异步通信类\TongXing\TongXing\obj\Debug\SanNiuSignal.pdb
+E:\工具软件\我的程序\C#区\异步通信类\TongXing\TongXing\bin\Debug\SanNiuSignal.xml
+C:\工具文件\我的程序\C#区\异步通信类\TongXing\TongXing\bin\Debug\SanNiuSignal.xml
+C:\工具文件\我的程序\C#区\异步通信类\TongXing\TongXing\bin\Debug\SanNiuSignal.dll
+C:\工具文件\我的程序\C#区\异步通信类\TongXing\TongXing\bin\Debug\SanNiuSignal.pdb
+C:\工具文件\我的程序\C#区\异步通信类\TongXing\TongXing\obj\Debug\SanNiuSignal.dll
+C:\工具文件\我的程序\C#区\异步通信类\TongXing\TongXing\obj\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\SanNiuSignalDemo\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+C:\Users\MR.Mei\Desktop\SanNiuSignalDemo\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\SanNiuSignalDemo\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\SanNiuSignalDemo\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\SanNiuSignalDemo\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\Socket_Source\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+C:\Users\MR.Mei\Desktop\Socket_Source\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\Socket_Source\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\Socket_Source\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\Socket_Source\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\数据采集\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+C:\Users\MR.Mei\Desktop\数据采集\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\数据采集\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\数据采集\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\数据采集\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\数据采集\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+H:\新建文件夹\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+H:\新建文件夹\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+H:\新建文件夹\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+H:\新建文件夹\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+H:\新建文件夹\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+H:\新建文件夹\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+I:\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+I:\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+I:\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+I:\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+I:\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+D:\wwwroot\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+D:\wwwroot\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+D:\wwwroot\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+D:\wwwroot\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+D:\wwwroot\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+D:\wwwroot\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+H:\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+H:\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+H:\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+H:\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+H:\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+H:\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+D:\wwwroot\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+D:\wwwroot\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+D:\wwwroot\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+D:\wwwroot\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+D:\wwwroot\ND_Deer_Collection11\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\ND_Deer_Collection\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+D:\wwwroot\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+D:\wwwroot\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+D:\wwwroot\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+D:\wwwroot\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+D:\wwwroot\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\新建文件夹\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+C:\Users\MR.Mei\Desktop\新建文件夹\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\新建文件夹\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\新建文件夹\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+C:\Users\MR.Mei\Desktop\新建文件夹\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\MR.Mei\Desktop\新建文件夹\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+E:\MT桌面\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+E:\MT桌面\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+E:\MT桌面\ND_Deer_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+E:\MT桌面\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+E:\MT桌面\ND_Deer_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+E:\MT桌面\ND_Deer_Collection2\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+E:\MT桌面\ND_Deer_Collection2\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+E:\MT桌面\ND_Deer_Collection2\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+E:\MT桌面\ND_Deer_Collection2\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+E:\MT桌面\ND_Deer_Collection2\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+E:\MT桌面\ND_Deer_Collection2\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\Mr.Mei\Desktop\Jabil_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+C:\Users\Mr.Mei\Desktop\Jabil_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+C:\Users\Mr.Mei\Desktop\Jabil_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+C:\Users\Mr.Mei\Desktop\Jabil_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Mei\Desktop\Jabil_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+C:\Users\Mr.Mei\Desktop\Jabil_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\Administrator\Desktop\Jabil_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+C:\Users\Administrator\Desktop\Jabil_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+C:\Users\Administrator\Desktop\Jabil_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+C:\Users\Administrator\Desktop\Jabil_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+C:\Users\Administrator\Desktop\Jabil_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+C:\Users\Administrator\Desktop\Jabil_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.xml
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil_Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil_Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection_Whole\SanNiuSignal\bin\Debug\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection_Whole\SanNiuSignal\bin\Debug\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection_Whole\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection_Whole\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection_Whole\Lib\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection_Whole\Lib\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection.Core\Lib\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection.Core\Lib\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection.Core\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection.Core\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection.Core\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+E:\wwwroot\Source\Jabil.Collection\Lib\SanNiuSignal.dll
+E:\wwwroot\Source\Jabil.Collection\Lib\SanNiuSignal.pdb
+E:\wwwroot\Source\Jabil.Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+E:\wwwroot\Source\Jabil.Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Lib\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Lib\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\obj\Debug\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\obj\Debug\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\obj\Debug\SanNiuSignal.csprojResolveAssemblyReference.cache

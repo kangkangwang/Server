@@ -1,0 +1,9 @@
+E:\wwwroot\Source\Jabil.Collection\Lib\Collection.Common.dll
+E:\wwwroot\Source\Jabil.Collection\Lib\Collection.Common.pdb
+E:\wwwroot\Source\Jabil.Collection\Collection.Common\obj\Debug\Collection.Common.dll
+E:\wwwroot\Source\Jabil.Collection\Collection.Common\obj\Debug\Collection.Common.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Lib\Collection.Common.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Lib\Collection.Common.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Collection.Common\obj\Debug\Collection.Common.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Collection.Common\obj\Debug\Collection.Common.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Collection.Common\obj\Debug\Collection.Common.csprojResolveAssemblyReference.cache

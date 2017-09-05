@@ -1,0 +1,5 @@
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\bin\Release\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\bin\Release\SanNiuSignal.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\obj\Release\SanNiuSignal.csprojResolveAssemblyReference.cache
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\obj\Release\SanNiuSignal.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\SanNiuSignal\obj\Release\SanNiuSignal.pdb

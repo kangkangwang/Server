@@ -1,0 +1,15 @@
+E:\wwwroot\Source\Jabil.Collection\Lib\Collection.Excutes.dll
+E:\wwwroot\Source\Jabil.Collection\Lib\Collection.Excutes.pdb
+E:\wwwroot\Source\Jabil.Collection\Collection.Excutes\obj\Debug\Collection.Excutes.csprojResolveAssemblyReference.cache
+E:\wwwroot\Source\Jabil.Collection\Collection.Excutes\obj\Debug\Collection.Excutes.dll
+E:\wwwroot\Source\Jabil.Collection\Collection.Excutes\obj\Debug\Collection.Excutes.pdb
+D:\MTDestop\Jabil.Collection\Lib\Collection.Excutes.dll
+D:\MTDestop\Jabil.Collection\Lib\Collection.Excutes.pdb
+D:\MTDestop\Jabil.Collection\Collection.Excutes\obj\Debug\Collection.Excutes.csprojResolveAssemblyReference.cache
+D:\MTDestop\Jabil.Collection\Collection.Excutes\obj\Debug\Collection.Excutes.dll
+D:\MTDestop\Jabil.Collection\Collection.Excutes\obj\Debug\Collection.Excutes.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Lib\Collection.Excutes.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Lib\Collection.Excutes.pdb
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Collection.Excutes\obj\Debug\Collection.Excutes.csprojResolveAssemblyReference.cache
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Collection.Excutes\obj\Debug\Collection.Excutes.dll
+D:\MTDestop\2.1代码类\2.0 Jabil\Jabil.Collection\Collection.Excutes\obj\Debug\Collection.Excutes.pdb

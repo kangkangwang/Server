@@ -1,0 +1,3 @@
+用户 'root' 登录失败。
+未将对象引用设置到对象的实例。
+There is already an open DataReader associated with this Connection which must be closed first.

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4B06B56E-018B-48C5-B1B7-A7F99DF0DCFA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Collection.Core</RootNamespace>
+    <AssemblyName>Collection.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Lib\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DeerMonitor.Base.Core">
+      <HintPath>..\Reference\DeerMonitor.Base.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.EnergyManage.Core">
+      <HintPath>..\Reference\DeerMonitor.EnergyManage.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.EquipmentManage.Core">
+      <HintPath>..\Reference\DeerMonitor.EquipmentManage.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.Framework.Commons">
+      <HintPath>..\Reference\DeerMonitor.Framework.Commons.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.Framework.ControlUtil">
+      <HintPath>..\Reference\DeerMonitor.Framework.ControlUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.Pager.Entity">
+      <HintPath>..\Reference\DeerMonitor.Pager.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="DeerMonitor.SYS.Core">
+      <HintPath>..\Reference\DeerMonitor.SYS.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=e44a2bc38ed2c13c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Reference\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\Reference\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder">
+      <HintPath>..\Reference\Microsoft.Practices.ObjectBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Reference\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\B_NQ_Monitordata.cs" />
+    <Compile Include="BLL\B_BS_Realdata.cs" />
+    <Compile Include="DAL\D_NQ_Monitordata.cs" />
+    <Compile Include="DAL\D_BS_Realdata.cs" />
+    <Compile Include="Helper\DataConvert.cs" />
+    <Compile Include="Entity\M_NQ_Monitordata.cs" />
+    <Compile Include="IDAL\I_NQ_Monitordata.cs" />
+    <Compile Include="IDAL\I_BS_Realdata.cs" />
+    <Compile Include="Entity\M_BS_Realdata.cs" />
+    <Compile Include="Entity\M_MT_RealData.cs" />
+    <Compile Include="Entity\M_MT_TagDefine.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Collection.Helper\Collection.Helper.csproj">
+      <Project>{2205bd0c-c3ad-4c6a-a608-66233af96c37}</Project>
+      <Name>Collection.Helper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

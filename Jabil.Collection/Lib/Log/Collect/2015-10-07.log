@@ -1,0 +1,4 @@
+  T_BS_Realdata  批量插入数据库失败  Timeout 时间已到。在操作完成之前超时时间已过或服务器未响应。
+  T_BS_Realdata  批量插入数据库失败  Timeout 时间已到。在操作完成之前超时时间已过或服务器未响应。
+  T_BS_Realdata  批量插入数据库失败  已有打开的与此 Command 相关联的 DataReader，必须首先将它关闭。
+  T_BS_Realdata  批量插入数据库失败  Timeout 时间已到。在操作完成之前超时时间已过或服务器未响应。
